@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aqui tem o teste 
 master teste
+=======
+aqui tem o teste 02
+>>>>>>> iss53
